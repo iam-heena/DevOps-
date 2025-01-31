@@ -1,0 +1,16 @@
+How does internet work?
+A:Internet works on OPTICAL FIBER/CABELE which are connected with DATA CENTER to store data in multiple regions across the world  and ISP(internet service provider)helps to provide internet with ipaddress to know about devices.
+what is server?
+A:To serve information like emailis called email server and file server,database server,application server eg:youtube,facebook,web server with static data like images www.html to client 
+clients are phone, laptop, browser eg:youtube,google
+DNS(domain name server):To link the connection between domain and ipaddress
+Diffrence B/W Web Server and Application Server?
+A:Web:staticdata like Nginix
+ Application:dynamic data like nodejs
+Types of Applications?
+A:  1)Standalone apps: it doesn't need internet
+    2)Web application:it works on internetlike insta,utube,to store data and streaming videos,emails serevr etc.,,
+what is Application support and Maintenance?
+A:application support are two essential concepts that play a crucial role in ensuring the smooth functioning and longevity of any software application.eg:User Assistance,User Assistance,User Training
+Application maintenance encompasses the ongoing activities required to keep a software application operational, up-to-date, and in line with evolving business needs.eg:Bug Fixing,Enhancements and Upgrades,Performance Optimization
+
