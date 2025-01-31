@@ -1,0 +1,54 @@
+ABOUT LINUX:
+Linux came from a Unix family, Linux is a free and open-source software operating system, which Linus Torvalds developed in September 1991. 
+In 1991, Linus Torvalds was a student at the University of Helsinki, Finland, USA.
+He developed the first code of Linux 0.01 and post it on the Minix newsgroup on 17 Sep 1991,
+his code become so popular people encouraged him to develop new code and he was led to develop new code and release the first “official” version of Linux, version 0.02 on October 5, 1991.
+Today many year pass and Linux become one of the most popular operating systems.
+Today 90% fastest Supercomputers out of 500 run on Linux variants including the top 10.
+How to install Linux?
+1-WSL:Windows SubSystem for Linux
+2-VirtualBox Eg: VMware
+3-AWS,AZURE.GCP
+4-VAGRANT
+DIFFERNCE B/W LINUX AND WINDOWS
+windows:commercial licence,watching movies,playing games,photoshop,buy antivirus,always need to update, windows8,xp,18 etc.,
+linux:GPL(general public licence),it mainly focus on development, networking,terminal,programming, scripting,dont need to buy anti virus,only 2 update per year,
+linux versions:ubuntu,centos,debian,vista,federal etc.,,
+Software remote location server tools?
+A:user to vm/server connection by using  1-RDP(Remote desktop protocal)
+                                         2-ssh(secure shell)
+                                         3-AnyDesk etc.,
+What are the kernel,BootLoader,and shell?
+A:Kernel is heart of Linux OS kernel is written in C programming language.It establish a connection b/nHardware and your software
+Kernel has 4 major parts,
+they are 1-device management
+         2-memory management
+         3-process management
+         4-handling the system related calls
+APPS->SHELL->KERNEL->HARDWARE
+system libraries helps to performing Task
+compiler,system software,user process
+SHELL is a programming language which helps to communicate with Kernel by using shell commands.
+BootLoader:Boot Loader is a software program that is responsible for “actually loading” the operating system once the Boot Manager has finished its work.
+And by loading Operating System we mean “loading the kernel of the Operating System”.  The Boot Loader is typically a part of the Operating System itself.
+Till the point Boot Loader starts loading the OS, there is nothing in the Main Memory of the machine.
+Eg:GRUB(GRand Unified Bootloader)
+Information about hardware?
+top- to know about processes
+free -g-memory usage
+nproc-number of cpu
+df -h-disk usage
+Linux file System?
+Linux File System Hierarchy:
+In Linux everything is represented as a file including a hardware program, the files are stored in a directory, and every directory contains a file with a tree structure. That is called File System Hierarchy.
+Linux uses single rooted, inverted tree-like structure.
+Root Directory represents with / (forward slash) It is a top-level directory in Linux. 
+commands:> cd /   --change directory
+         > ls     --list all files
+Differnece between linux and Unix?
+A:linux is a parent OS and it is a free, opensource,and Unix is a Commercial and it has some paid versions
+States of Processes in Linux?
+A:running .slepping,kiiled,terminated,zombie etc..,
+
+
+
